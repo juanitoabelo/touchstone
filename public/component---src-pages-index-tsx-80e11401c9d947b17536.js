@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_admin_template=self.webpackChunkgatsby_admin_template||[]).push([[691],{6738:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return c}});var a=n(7294),u=n(5444);function c(){return(0,a.useEffect)((function(){(0,u.navigate)("/extra-components/accordion")})),a.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-80e11401c9d947b17536.js.map

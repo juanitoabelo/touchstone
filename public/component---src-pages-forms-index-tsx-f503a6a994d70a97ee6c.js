@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_admin_template=self.webpackChunkgatsby_admin_template||[]).push([[2179],{8997:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return f}});var u=n(7294),a=n(5444);function f(){return(0,u.useEffect)((function(){(0,a.navigate)("/forms/inputs")})),u.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-forms-index-tsx-f503a6a994d70a97ee6c.js.map

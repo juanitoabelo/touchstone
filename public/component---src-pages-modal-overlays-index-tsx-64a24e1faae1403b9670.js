@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_admin_template=self.webpackChunkgatsby_admin_template||[]).push([[948],{4884:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return l}});var a=n(7294),u=n(5444);function l(){return(0,a.useEffect)((function(){(0,u.navigate)("/modal-overlays/popover")})),a.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-modal-overlays-index-tsx-64a24e1faae1403b9670.js.map

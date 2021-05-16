@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_admin_template=self.webpackChunkgatsby_admin_template||[]).push([[3796],{1726:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return i}});var u=n(7294),a=n(5444);function i(){return(0,u.useEffect)((function(){(0,a.navigate)("/ui-features/grid")})),u.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-ui-features-index-tsx-587c9b7fcacf94e11721.js.map

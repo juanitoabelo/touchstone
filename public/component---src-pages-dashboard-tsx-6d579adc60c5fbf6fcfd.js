@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_admin_template=self.webpackChunkgatsby_admin_template||[]).push([[7378],{9657:function(e,t,n){"use strict";n.r(t);var a=n(7294),l=n(2722);t.default=function(){return a.createElement(a.Fragment,null,a.createElement("div",null,a.createElement(l.Z,{title:"Home"})))}}}]);
+//# sourceMappingURL=component---src-pages-dashboard-tsx-6d579adc60c5fbf6fcfd.js.map
